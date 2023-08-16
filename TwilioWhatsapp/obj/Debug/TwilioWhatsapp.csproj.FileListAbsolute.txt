@@ -1,0 +1,15 @@
+D:\Practice\c# .net\Twilio\whatsapp\TwilioWhatsapp\TwilioWhatsapp\bin\Debug\TwilioWhatsapp.exe.config
+D:\Practice\c# .net\Twilio\whatsapp\TwilioWhatsapp\TwilioWhatsapp\bin\Debug\TwilioWhatsapp.exe
+D:\Practice\c# .net\Twilio\whatsapp\TwilioWhatsapp\TwilioWhatsapp\bin\Debug\TwilioWhatsapp.pdb
+D:\Practice\c# .net\Twilio\whatsapp\TwilioWhatsapp\TwilioWhatsapp\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Practice\c# .net\Twilio\whatsapp\TwilioWhatsapp\TwilioWhatsapp\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Practice\c# .net\Twilio\whatsapp\TwilioWhatsapp\TwilioWhatsapp\bin\Debug\Newtonsoft.Json.dll
+D:\Practice\c# .net\Twilio\whatsapp\TwilioWhatsapp\TwilioWhatsapp\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Practice\c# .net\Twilio\whatsapp\TwilioWhatsapp\TwilioWhatsapp\bin\Debug\Twilio.dll
+D:\Practice\c# .net\Twilio\whatsapp\TwilioWhatsapp\TwilioWhatsapp\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Practice\c# .net\Twilio\whatsapp\TwilioWhatsapp\TwilioWhatsapp\bin\Debug\Newtonsoft.Json.xml
+D:\Practice\c# .net\Twilio\whatsapp\TwilioWhatsapp\TwilioWhatsapp\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Practice\c# .net\Twilio\whatsapp\TwilioWhatsapp\TwilioWhatsapp\bin\Debug\Twilio.xml
+D:\Practice\c# .net\Twilio\whatsapp\TwilioWhatsapp\TwilioWhatsapp\obj\Debug\TwilioWhatsapp.csprojResolveAssemblyReference.cache
+D:\Practice\c# .net\Twilio\whatsapp\TwilioWhatsapp\TwilioWhatsapp\obj\Debug\TwilioWhatsapp.exe
+D:\Practice\c# .net\Twilio\whatsapp\TwilioWhatsapp\TwilioWhatsapp\obj\Debug\TwilioWhatsapp.pdb
